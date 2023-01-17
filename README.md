@@ -2,18 +2,7 @@
 
 <h1 align="center">Todo Redux</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gokserpirik/todo-redux?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gokserpirik/todo-redux?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gokserpirik/todo-redux?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/gokserpirik/todo-redux?color=56BEB8">
-
-
-
-<p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
@@ -30,7 +19,7 @@ A todo list app uses Redux. Created to learn Redux.
 ## :sparkles: Features ##
 
 :heavy_check_mark: uses @reduxjs/toolkit;\
-:heavy_check_mark: uses one slice named todoSlice;\
+:heavy_check_mark: uses one slice named todoSlice;
 
 ## :rocket: Technologies ##
 
